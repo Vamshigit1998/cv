@@ -55,7 +55,7 @@
     <ol style="I">
         <li>Playing Cricket</li>
         <li>Reading Books</li>
-        <li>hangingout with friends</li>
+        <li>Hangingout with friends</li>
     </ol>
     <a href="Contactdetails.html" target="_blank">Contact Details</a>
     <!-- So by the above statement we can be directed to an other webpage that contains the contact details and thats how the multiple
